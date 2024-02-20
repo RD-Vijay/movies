@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hrk9hzDKCzBG1tc/ivFW+nrU4GzKZVO8vtHFN2b4Qdya82uOvlenU9CR9U4hKbW8Hefw9qgEkI6UH9k2FWDrCw==",
+  "dgSpecHash": "7oplcWhOmxC5AN2ImGo1IJ6OUjKNuQ0YAksCQET/wy2YP2ks5hTsLTdb7cLxrvrcrFmqBiKGTFg8FWfHQfakGg==",
   "success": true,
-  "projectFilePath": "C:\\qawork\\demoapi\\DemoFakeAPI.csproj",
+  "projectFilePath": "C:\\qawork\\movies\\DemoFakeAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vijay.Bagdi\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Vijay.Bagdi\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

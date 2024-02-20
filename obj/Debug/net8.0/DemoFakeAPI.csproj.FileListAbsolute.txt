@@ -106,3 +106,12 @@ C:\qawork\demoapi\obj\Debug\net8.0\DemoFakeAPI.csproj.CoreCompileInputs.cache
 C:\qawork\demoapi\obj\Debug\net8.0\DemoFakeAPI.dll
 C:\qawork\demoapi\obj\Debug\net8.0\refint\DemoFakeAPI.dll
 C:\qawork\demoapi\obj\Debug\net8.0\DemoFakeAPI.pdb
+C:\qawork\movies\obj\Debug\net8.0\DemoFakeAPI.csproj.AssemblyReference.cache
+C:\qawork\movies\obj\Debug\net8.0\DemoFakeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\qawork\movies\obj\Debug\net8.0\DemoFakeAPI.AssemblyInfoInputs.cache
+C:\qawork\movies\obj\Debug\net8.0\DemoFakeAPI.AssemblyInfo.cs
+C:\qawork\movies\obj\Debug\net8.0\DemoFakeAPI.csproj.CoreCompileInputs.cache
+C:\qawork\movies\obj\Debug\net8.0\DemoFakeAPI.sourcelink.json
+C:\qawork\movies\obj\Debug\net8.0\DemoFakeAPI.dll
+C:\qawork\movies\obj\Debug\net8.0\refint\DemoFakeAPI.dll
+C:\qawork\movies\obj\Debug\net8.0\DemoFakeAPI.pdb

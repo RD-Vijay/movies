@@ -1172,11 +1172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\qawork\\demoapi\\DemoFakeAPI.csproj",
+      "projectUniqueName": "C:\\qawork\\movies\\DemoFakeAPI.csproj",
       "projectName": "DemoFakeAPI",
-      "projectPath": "C:\\qawork\\demoapi\\DemoFakeAPI.csproj",
+      "projectPath": "C:\\qawork\\movies\\DemoFakeAPI.csproj",
       "packagesPath": "C:\\Users\\Vijay.Bagdi\\.nuget\\packages\\",
-      "outputPath": "C:\\qawork\\demoapi\\obj\\",
+      "outputPath": "C:\\qawork\\movies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
