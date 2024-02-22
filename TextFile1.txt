@@ -1,3 +1,2 @@
 Welcome to First Feature Branch
-Need to run through Jenkins
-GitHub Pluggin installed
+
