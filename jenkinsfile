@@ -6,17 +6,17 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-               echo "Jenkins started"
+               echo "Build started"
             }
         }
         stage('Test'){
             steps {
-                echo "Second Stage"
+                echo "Testing Started"
             }
         }
         stage('Deploy') {
             steps {
-                echo 'Final stage'
+                echo 'Deployment started'
             }
         }
     }
